@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Vitor Souza 👋
 
-<!--
-**vitorggs1704/vitorggs1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer based in Sao Paulo, Brazil, focused on building simple and efficient solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I love transforming ideas into clean, functional code.
+- 📚 Constantly learning new technologies and improving my skills.
+- 🌱 Currently focusing on improving my development stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Here are some of the tools and technologies I work with:
+
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 | PHP | Git / GitHub |
+| JavaScript | MySQL | VS Code |
+
+## 📈 My GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorggs1704&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
