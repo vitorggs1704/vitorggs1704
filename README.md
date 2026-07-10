@@ -17,4 +17,4 @@ Here are some of the tools and technologies I work with:
 
 ## 📈 My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorggs1704&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-username-map.vercel.app/api/gh-line?username=vitorggs1704)](https://github.com/anuraghazra/github-readme-stats)
